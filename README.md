@@ -39,5 +39,6 @@ Then you can call all the other functions
 - [ ] add self-test routine
 - [ ] enhance the calibration options
 - [ ] make more stable
+- [ ] add timeout for I2C read
 
 Contact: **sl7@flate.io**
